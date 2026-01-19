@@ -5,6 +5,7 @@
 - 📫 How to reach me beanothemonkey@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im pretty cool
+- 👀 Check out my website - https://landonm09.github.io/
 
 <!---
 LandonM09/LandonM09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
