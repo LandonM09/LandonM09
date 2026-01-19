@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LandonM09
 - 👀 I’m interested in robotics (FTC)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m Working on 3D Modeling
+- 💞️ I’m looking to collaborate on Games, and Models
 - 📫 How to reach me beanothemonkey@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like trains
+- ⚡ Fun fact: im pretty cool
 
 <!---
 LandonM09/LandonM09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
